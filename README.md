@@ -1,6 +1,6 @@
 ``` swift
 let label = UILabel()
-label.at_setAllSubstringsColor("color", color: UIColor.redColor())
+label.at_setAllSubstringsColor("substringToChangeColor", color: UIColor.redColor())
 ```
 
-Sets color of all substrings "color" to red.  
+Sets color of all substrings "substringToChangeColor" to red.  
